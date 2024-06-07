@@ -1,0 +1,160 @@
+#INFOFILE1.1 - Do not remove this line!
+
+File.Format = erg
+File.ByteOrder = LittleEndian
+File.DateInSeconds = 1712245746
+File.DateLocal = 2024-04-04 17:49:06 W. Europe Summer Time
+
+File.At.1.Name = Time
+File.At.1.Type = Double
+Quantity.Time.Unit = s
+
+File.At.2.Name = Car.Fr1.tx
+File.At.2.Type = Float
+Quantity.Car.Fr1.tx.Unit = m
+
+File.At.3.Name = Car.Fr1.ty
+File.At.3.Type = Float
+Quantity.Car.Fr1.ty.Unit = m
+
+File.At.4.Name = Car.Gen.ax
+File.At.4.Type = Float
+Quantity.Car.Gen.ax.Unit = m/s^2
+
+File.At.5.Name = Car.Gen.ay
+File.At.5.Type = Float
+Quantity.Car.Gen.ay.Unit = m/s^2
+
+File.At.6.Name = Car.SteerAngleFL
+File.At.6.Type = Float
+Quantity.Car.SteerAngleFL.Unit = rad
+
+File.At.7.Name = Car.SteerAngleFR
+File.At.7.Type = Float
+Quantity.Car.SteerAngleFR.Unit = rad
+
+File.At.8.Name = Car.Yaw
+File.At.8.Type = Float
+Quantity.Car.Yaw.Unit = rad
+
+File.At.9.Name = Car.YawRate
+File.At.9.Type = Float
+Quantity.Car.YawRate.Unit = rad/s
+
+File.At.10.Name = Car.vx
+File.At.10.Type = Float
+Quantity.Car.vx.Unit = m/s
+
+File.At.11.Name = Car.vy
+File.At.11.Type = Float
+Quantity.Car.vy.Unit = m/s
+
+Anim.Msg.0.Time = 0
+Anim.Msg.0.Class = Anim
+Anim.Msg.0.Id = 18
+Anim.Msg.0.Data:
+	CQZvjQqAXktnfD9wFlfynEqRpvwJBm9JAAAAhgAAAIYAAAAAABJ3aW42NABPZmZs
+	aW5lADEwLjEAQzovVXNlcnMvYXJrODMxOC9DTV9Qcm9qZWN0cwAyMDI0LTAzLTI2
+	LUtJQ1NBRmVfVHJhamVjdG9yeV9TdGVlcl9WZWwAMjAyNC0wMy0yNi1LSUNTQUZl
+	X1RyYWplY3RvcnlfU3RlZXJfVmVsAAABhwQK
+
+Anim.Msg.1.Time = 0
+Anim.Msg.1.Class = Anim
+Anim.Msg.1.Id = 50
+Anim.Msg.1.Data:
+	hDyD0nv2VuxHYCaUVC9LUlzV4LGEPINeAAAAXQAAAF0AAAAAADIAVGltZQA1AFN0
+	YXJ0aW5nX1ZlbG9jaXR5ADAARW5kX1ZlbG9jaXR5ADI1AFN0YXJ0aW5nX1N0ZWVy
+	aW5nX0FuZ2xlADAARW5kX1N0ZWVyaW5nX0FuZ2xlADAA
+
+Anim.Msg.2.Time = 0
+Anim.Msg.2.Class = Anim
+Anim.Msg.2.Id = 51
+Anim.Msg.2.Data:
+	byhN96qvrqzj9/D0O0bqo5dHdBVvKE3jAAAAAwAAAAMAAAAAADMA
+
+Anim.Msg.3.Time = 0
+Anim.Msg.3.Class = Anim
+Anim.Msg.3.Id = 21
+Anim.Msg.3.Data:
+	6l1hZLLVZ1+dLfRUA5cMfWz2PXHqXWH4AAAAaAAAAGgAAAAAABUAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK
+
+Anim.VehicleClass = Car
+Anim.Vehicle.MovieSkin = 3D/Vehicles/IPG_CompanyCar_2018.mobj
+
+Anim.Msg.4.Time = 0
+Anim.Msg.4.Class = Anim
+Anim.Msg.4.Id = 11
+Anim.Msg.4.Data:
+	1UktTRi9jpNbJd4w811MlrFRWXLVSSx9AAAA2AAAANgAAAAAAAsEAAACAAAAAAAA
+	P3wo9j4ZmZpAj1wpv3wo9j+nrhQAAAAAAAAAAAAAAABADlYEAAAAAD8Gp/BEreMz
+	RNGwAL3MzM0AAAAAPszMzUBhFoc/SwIMPqBBiUBhFoe/SwIMPqBBiT9lHrg/UGJO
+	PqBBiT9lHri/UGJOPqBBiQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	vczMzQAAAAA+zMzN
+
+Anim.Msg.5.Time = 0
+Anim.Msg.5.Class = Anim
+Anim.Msg.5.Id = 15
+Anim.Msg.5.Data:
+	UH9AWvy1kg8gSmrjk7dfxlHL92VQf0CSAAAAiAAAAIgAAAAAAA8EAAAAAAAAAQAA
+	Pq/fOz6CLQ4AAAAAPoKPXIAAAAAAAAAARbuAAAH/AAA+r987PoItDoAAAAA+go9c
+	AAAAAAAAAABFu4AAAgEAAD6vXCk+ggxKAAAAAD6XCj2AAAAAAAAAAEXPgAAD/wAA
+	Pq9cKT6CDEqAAAAAPpcKPQAAAAAAAAAARc+AAAoK
+
+Anim.Msg.6.Time = 0
+Anim.Msg.6.Class = Anim
+Anim.Msg.6.Id = 23
+Anim.Msg.6.Data:
+	O2sKzwsvG/ECyGJiHzI1Qv/Clso7awoXAAAAlAAAAJQAAAAAABcAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoK
+
+Anim.Msg.7.Time = 0
+Anim.Msg.7.Class = Instr
+Anim.Msg.7.Id = 0
+Anim.Msg.7.Data:
+	tqEeACMRvsgcxvz5dcELcPWIWOK2oR4sAAAAFAAAABQAAAAAAAAAAQAGAAFF2+ga
+	Q5vkjgAAAAEK
+
+Anim.Msg.8.Time = 0
+Anim.Msg.8.Class = Anim
+Anim.Msg.8.Id = 22
+Anim.Msg.8.Data:
+	oY3onH/+HlYtrD7Ml5V1MEH9MoChjeiwAAAAFAAAABQAAAAAABYAAQAGAAFF2+ga
+	Q5vkjgAAAAEK
+
+Testrun = 2024-03-26-KICSAFe_Trajectory_Steer_Vel
+
+SimParam.DeltaT = 0.001
+
+NamedValues.Count = 5
+NamedValues.0.Name = End_Steering_Angle
+NamedValues.0.Value = 0
+NamedValues.1.Name = End_Velocity
+NamedValues.1.Value = 25
+NamedValues.2.Name = Starting_Steering_Angle
+NamedValues.2.Value = 0
+NamedValues.3.Name = Starting_Velocity
+NamedValues.3.Value = 0
+NamedValues.4.Name = Time
+NamedValues.4.Value = 5
+
+KeyValues.Count = 0
+
+GPUSensors.Count = 0
+
+Comment:
+	For more details see session logfile
+
+CarMaker.NumVersion = 100100
+CarMaker.Version = 10.1
+CarMaker.Version.MatSupp = 10.1
+CarMaker.Version.Apo = 1.37.1
+CarMaker.Version.Info = 1.24
+CarMaker.Version.Driver = 10.0
+CarMaker.Version.Road = 10.1
+CarMaker.Version.Tire = 9.0.2
+
